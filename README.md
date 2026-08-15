@@ -28,6 +28,7 @@
 </div>
 
 ##  Education & Certificates
+- System Analysis and Development - SPTech (2026-2028)
 - Technical Degree in Systems Development – SENAI (2024–2025)
 - AWS Academy – Cloud Security Foundations (2026)
 
