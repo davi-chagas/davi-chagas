@@ -1,42 +1,26 @@
-<h2 align="center"> <code>&lt;Hello World!! I'm <b>Davi Chagas</b>! /&gt;</code></h2>
+<img src="assets/terminal.svg" width="100%" alt="Davi Chagas" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=+System+Analysis+and+Development+Student" 
-         alt="Typing SVG" />
-  </a>
-</div>
+### 🧰 `~/stack`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
 
 
-##  Tech Stack
+### 🎓 `~/education`
 
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
+**Academic Background**
+- **System Analysis and Development** — SPTech (2026–2028)
+- **Technical Degree in Systems Development** — SENAI (2024–2025)
 
-##  Education & Certificates
-- System Analysis and Development - SPTech (2026-2028)
-- Technical Degree in Systems Development – SENAI (2024–2025)
-- AWS Academy – Cloud Security Foundations (2026)
+**Certifications**
+- **AWS Academy — Cloud Security Foundations** (2026)
 
----
+### ✉️ `~/contact`
 
 <div align="center">
   <a href="https://linkedin.com/in/chagas-davi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
 </div>
